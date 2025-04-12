@@ -1,1 +1,11 @@
-
+body.dark-mode {
+    background: #1a1a1a;
+    color: white;
+}
+.dark-mode .category {
+    background: #2d2d2d;
+}
+.dark-mode a {
+    background: #3d3d3d;
+    color: white;
+}
